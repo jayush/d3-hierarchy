@@ -9,19 +9,19 @@
           "children": [
             {
               "name": "mktg_mlx_q",
-              "value": 3938
+              "value": 50
             },
             {
               "name": "mktg_dwx_q",
-              "value": 3812
+              "value": 30
             },
             {
               "name": "mktg_dex_q",
-              "value": 6714
+              "value": 15
             },
             {
               "name": "mktg_cdf_q",
-              "value": 743
+              "value": 5
             }
           ]
         },
@@ -30,19 +30,19 @@
           "children": [
             {
               "name": "mktg_mlx_q",
-              "value": 3938
+              "value": 40
             },
             {
               "name": "mktg_dwx_q",
-              "value": 3812
+              "value": 30
             },
             {
               "name": "mktg_dex_q",
-              "value": 6714
+              "value": 20
             },
             {
               "name": "mktg_cdf_q",
-              "value": 743
+              "value": 10
             }
           ]
         },
@@ -51,26 +51,25 @@
           "children": [
             {
               "name": "mktg_mlx_q",
-              "value": 3938
+              "value": 35
             },
             {
               "name": "mktg_dwx_q",
-              "value": 3812
+              "value": 25
             },
             {
               "name": "mktg_dex_q",
-              "value": 6714
+              "value": 25
             },
             {
               "name": "mktg_cdf_q",
-              "value": 743
+              "value": 15
             }
           ]
         }
       ]
     },
-
-   {
+    {
       "name": "finance",
       "children": [
         {
@@ -78,19 +77,19 @@
           "children": [
             {
               "name": "fin_mlx_q",
-              "value": 3938
+              "value": 25
             },
             {
               "name": "fin_dwx_q",
-              "value": 3812
+              "value": 25
             },
             {
               "name": "fin_dex_q",
-              "value": 6714
+              "value": 25
             },
             {
               "name": "fin_cdf_q",
-              "value": 743
+              "value": 25
             }
           ]
         },
@@ -99,19 +98,19 @@
           "children": [
             {
               "name": "fin_mlx_q",
-              "value": 3938
+              "value": 30
             },
             {
               "name": "fin_dwx_q",
-              "value": 3812
+              "value": 30
             },
             {
               "name": "fin_dex_q",
-              "value": 6714
+              "value": 20
             },
             {
               "name": "fin_cdf_q",
-              "value": 743
+              "value": 20
             }
           ]
         },
@@ -120,19 +119,87 @@
           "children": [
             {
               "name": "fin_mlx_q",
-              "value": 3938
+              "value": 50
             },
             {
               "name": "fin_dwx_q",
-              "value": 3812
+              "value": 30
             },
             {
               "name": "fin_dex_q",
-              "value": 6714
+              "value": 15
             },
             {
               "name": "fin_cdf_q",
-              "value": 743
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "devops",
+      "children": [
+        {
+          "name": "dev",
+          "children": [
+            {
+              "name": "devops_mlx_q",
+              "value": 50
+            },
+            {
+              "name": "devops_dwx_q",
+              "value": 30
+            },
+            {
+              "name": "devops_dex_q",
+              "value": 10
+            },
+            {
+              "name": "devops_cdf_q",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "children": [
+            {
+              "name": "devops_mlx_q",
+              "value": 40
+            },
+            {
+              "name": "devops_dwx_q",
+              "value": 30
+            },
+            {
+              "name": "devops_dex_q",
+              "value": 20
+            },
+            {
+              "name": "devops_cdf_q",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "prod",
+          "children": [
+            {
+              "name": "devops_mlx_q",
+              "value": 35
+            },
+            {
+              "name": "devops_dwx_q",
+              "value": 35
+            },
+            {
+              "name": "devops_dex_q",
+              "value": 15
+            },
+            {
+              "name": "devops_cdf_q",
+              "value": 15
             }
           ]
         }
